@@ -6,9 +6,9 @@ import { MdOutlineGpsFixed } from 'react-icons/md';
 import { ImLocation2 } from 'react-icons/im';
 import { IoMdCloseCircle } from 'react-icons/io';
 
-// const api = "AIzaSyD16s1KoTWIDfIb-DJxxTYsFo_cyLSFDEU"
-const api = "AIzaSyBooopbItqJYBBVISpUZHkmU43NzEOWGKQ"
-// const api = "AIzaSyBoyTIw1lq48nFTIxUtul-JOT2B1px8FeE"
+
+const api = "AIzaSyBooopbItqJYBBVISpUZHkad1ewqdafgrw"
+
 
 const center = { lat: 28.612894, lng: 77.229446 }
 const containerStyle = {
